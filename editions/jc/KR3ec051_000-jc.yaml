@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR3ec051/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 下編
+  hash: sha256:32ad2d597337984b0734fd9a02e71e34b4e5dd9585a8097a9c95941341053cfe
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ec051_jc_000-d4.h1s1}
+  - {type: 'tls:div-start', offset: 2, content: '', id: KR3ec051_jc_000-d4d2, level: 2, head_text: 卷八主治上}
+metadata:
+  title: 本草求真
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ec051.xml
+hash: sha256:b1adb7e32b45c9e78de3ffd13b167309f26777c21c9a27d0280684893afcd652
